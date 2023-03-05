@@ -1,5 +1,5 @@
 # <p align="center">Hi <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/hi.gif" width="35px">, I'm Gakamine!</p>
-I am a French cybersecurity engineer interested in programmation and automation.
+I am a French cybersecurity engineer interested in programming and automation.
 I am currently building web application using VueJS and RoR to make GraphQL API.
 You might also find some basic malwares or cybersecurity ressources.
 
