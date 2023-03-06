@@ -1,4 +1,4 @@
-# <p align="center">Hi <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/hi.gif" width="35px">, I'm Gakamine!</p>
+# <p align="center">Hi <img src="https://raw.githubusercontent.com/Gakamine/Gakamine/main/hi.gif" width="35px">, I'm Gakamine!</p>
 I am a French cybersecurity engineer interested in programming and automation.
 I am currently building web applications using VueJS and RoR to make GraphQL APIs.
 You might also find some basic malwares or cybersecurity ressources.
