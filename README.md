@@ -1,6 +1,6 @@
 # <p align="center">Hi <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/hi.gif" width="35px">, I'm Gakamine!</p>
 I am a French cybersecurity engineer interested in programming and automation.
-I am currently building web application using VueJS and RoR to make GraphQL API.
+I am currently building web applications using VueJS and RoR to make GraphQL APIs.
 You might also find some basic malwares or cybersecurity ressources.
 
 My code is here to be shared, feel free to fork and make it your own.
