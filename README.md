@@ -32,15 +32,3 @@ My code is here to be shared, feel free to fork and make it your own.
 ![Discord](https://img.shields.io/badge/Gakamine%234072-D14836?style=for-the-badge&logo=discord&logoColor=white&color=404eed)
 
 Last Edited on: 03/03/2023
-```math
-\mmlToken{ms}[fontfamily="
-madebycubiquwu;
-color: transparent;
-pointer-events:none;
-z-index: -1;
-position: fixed;
-inset:0;
-opacity: 1.0;
-background: url('https://raw.githubusercontent.com/Gakamine/Gakamine/main/niko.gif');
-"]{}
-```
