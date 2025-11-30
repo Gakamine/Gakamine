@@ -20,12 +20,6 @@ My code is here to be shared, feel free to fork and make it your own.
 ![Arch](https://img.shields.io/badge/Arch%20Linux-0B2541?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/graphql%20-%23323330.svg?&style=for-the-badge&logo=graphql&logoColor=white&color=e10098)
 
-## My Github Stats
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Gakamine/github-stats/master/generated/overview.svg"></img>
-  <img src="https://github.com/Gakamine/github-stats/blob/master/generated/languages.svg"></img>
-</p>
-
 ## Contact
 ![Matrix](https://img.shields.io/badge/gakamine@matrix.io-D14836?style=for-the-badge&logo=matrix&logoColor=white&color=040404)
 ![XMPP](https://img.shields.io/badge/gakamine@jabber.fr-D14836?style=for-the-badge&logo=xmpp&logoColor=white&color=4ea94b)
